@@ -9,3 +9,5 @@
 function makePromiseWithConstructor(itShouldResolve){
     // put your code here
 }
+
+// Add your checks here
