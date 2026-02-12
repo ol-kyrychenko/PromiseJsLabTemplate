@@ -1,0 +1,23 @@
+{
+  "name": "promise-js-lab-improved",
+  "version": "2.0.0",
+  "description": "Покращені лабораторні роботи з JavaScript Promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test-utils.js",
+    "start": "node 01-makePromiseWithConstructor.js"
+  },
+  "keywords": [
+    "javascript",
+    "promises",
+    "async",
+    "learning",
+    "tutorial",
+    "lab"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
